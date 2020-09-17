@@ -1,6 +1,12 @@
-# AngularPwa
+# AngularPwa-Service worker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This project is based on service worker feature where the one api will be accessible in offline mode and also google fonts.For service worker ngsw-config.json is important and there we can set the api urls,service worker time limit etc. This file we get ater run the `ng add @angular/pwa` at root folder.
+
+# To set up the Angular service worker in your project, use the CLI add command.
+
+`ng add @angular/pwa`
+
 
 ## Development server
 
